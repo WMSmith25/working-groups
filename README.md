@@ -1,9 +1,9 @@
 # Welcome - MCP Community Working Groups
 
 > [!WARNING]
-> The CWG Discord referenced below is currently being rebranded to the "MCP Contributor Discord" in accordance with the decision in [SEP-994](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1002). A reorganizing of the concept of "Working Groups" via another SEP is also imminent. Consider all the below a work-in-progress until then.
+> The CWG Discord referenced below has been rebranded to the "MCP Contributor Discord" in accordance with the decision in [SEP-994](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1002).  This repository has been archived as the [MCP working groups and interest groups](https://modelcontextprotocol.io/community/working-interest-groups) are now a part of the official MCP governance structure.
 >
-> Read more about and join the [MCP Contributor Discord](https://modelcontextprotocol.io/community/communication).
+> Read more about how to get involved [here](https://modelcontextprotocol.io/community/communication).
 
 ![MCPWGLogo](images/mcp-wg-icon_small.png)
 
